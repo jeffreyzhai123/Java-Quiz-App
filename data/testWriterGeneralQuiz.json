@@ -1,0 +1,17 @@
+{
+    "name": "My quiz",
+    "questions": [
+        {
+            "number": 1,
+            "answer": "4",
+            "hint": "4?",
+            "prompt": "2 + 2 ="
+        },
+        {
+            "number": 2,
+            "answer": "6",
+            "hint": "6?",
+            "prompt": "3 + 3 ="
+        }
+    ]
+}
